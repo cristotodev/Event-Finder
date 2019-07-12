@@ -6,7 +6,7 @@ export const EventosConsumer = EventosContext.Consumer;
 
 class EventosProvider extends Component {
     
-    token = "NVZVOJUOORUEL6VUGQDX";
+    token = "YOUR TOKEN OF EVENTBRITEAPI ";
     ordenar = 'date'
 
     state = {
