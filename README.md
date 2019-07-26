@@ -1,3 +1,7 @@
+### yarn install
+
+Added all necesaries dependencies.
+
 ### yarn start
 
 Runs the app in the development mode.<br>
